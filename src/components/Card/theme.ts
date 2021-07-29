@@ -10,6 +10,9 @@ export const light: CardTheme = {
   boxShadowWarning: shadows.warning,
   cardHeaderBackground: "linear-gradient(111.68deg, #F2ECF2 0%, #E8F2F6 100%)",
   dropShadow: "drop-shadow(0px 1px 4px rgba(25, 19, 38, 0.15))",
+  
+
+
 };
 
 export const dark: CardTheme = {
